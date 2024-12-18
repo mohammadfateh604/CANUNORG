@@ -1,0 +1,47 @@
+.imag-1-info {
+    width: 50%;
+    height: 50%;
+}
+
+@media screen and (max-width: 800px) {
+    .imag-1-info{
+        width: 80%;
+        height: 80%;
+    }
+}
+
+.dad-imag-1-info {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.dad-titel {
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dad-phon-number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-phon-number {
+    width: 40%;
+    height: 40%;
+    margin-top: 1rem;
+}
+
+.dad-titel-call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem ;
+}
+
+
